@@ -18,6 +18,11 @@ I have personally run this against a storage account used by a single VM and cle
 
 Contributions are welcome, please submit an issue or PR!
 
+## Todo
+
+- Add enumeration of existing table metrics
+- Show total storage before and after pruning
+
 ## Disclaimer
 
 This script is provided as-is without any warranty or support. Use this script at your own risk. I am not responsible for any damages or data loss that may occur as a result of running this script. Before running this script, make sure to read and understand the code, and test it in a non-production environment.
